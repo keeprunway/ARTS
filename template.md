@@ -1,49 +1,23 @@
 ### LeetCode
 
-> 项目地址：[sailfish-leetcode/AddTwoNumbers.java at master · Sailfishc/sailfish-leetcode · GitHub](https://github.com/Sailfishc/sailfish-leetcode/blob/master/src/main/java/AddTwoNumbers.java)
+> 项目地址：[xxx](https://xxx.com)
 
 ```
 */***
-* * 整个链表yinggaishi*
-* * 0 -> node1 -> node2 -> node3*
-* * 然后返回的链表元素从第二个元素开始*
+* *   Title
+* * Description
+* * 
 * ****@param***l1*
-* ****@param***l2*
+
 * ****@return**
 **/*
-public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-    // 创建一个哑结点
-    ListNode headNode = new ListNode(0);
-    ListNode p = l1, q = l2, cur = headNode;
-    int carry = 0;
-    // 如果p或者q其中有一个不为空，那么就执行
-    while (p != null || q != null) {
-        // 如果其中有一个链表的元素为null了，那么赋值为0
-        int x = (p != null ? p.val : 0);
-        int y = (q != null ? q.val : 0);
-        int sum = x + y + carry;
-        // 表示进位
-        carry = sum / 10;
-        cur.next = new ListNode(sum % 10);
-        cur = cur.next;
-        if (p != null) {
-            p = p.next;
-        }
-        if (q != null) {
-            q = q.next;
-        }
-    }
-    if (carry > 0) {
-        cur.next = new ListNode(carry);
-    }
-    return headNode.next;
-}
+You code
 ```
 
 
 ### Review
 
-- 原文地址：[the best programming language - Coding Geek](http://coding-geek.com/the-best-programming-language/)
+- 原文地址：[Article](http://xx.com/)
 
 > 最好的语言需要一些情形
 
