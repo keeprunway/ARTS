@@ -1,14 +1,14 @@
 # ARTS
 
- [Algorithm](#1-algorithm)
+-[ ] [Algorithm](#1-algorithm)
 
- [Review](#1-review)
+-[ ] [Review](#1-review)
 
- [Tip](#3-tip)
+-[ ] [Tip](#3-tip)
 
- [Share](#4-share)
+-[ ] [Share](#4-share)
  
- [Summary](#5-summary)
+-[ ] [Summary](#5-summary)
 
 ## 1. Algorithm
 
@@ -27,4 +27,3 @@
 
 
 ## 5.Summary
-

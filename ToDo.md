@@ -15,7 +15,10 @@
 
 ## 2. Review
 
-- [ ] [The 10:1 rule of writing and programming](https://www.ybrikman.com/writing/2018/08/12/the-10-to-1-rule-of-writing-and-programming/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
+- [ ] [Programming lessons I wish I knew when I graduated 1](https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/)
+- [ ] [Programming lessons I wish I knew when I graduated 2](https://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/)
+- [ ] [The 10x developer is NOT a myth](https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/)
+- [ ] [Six programming paradigms that will change how you think about coding](https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
 - [ ] [Why You Should (And Shouldn’t) Join a Startup](https://www.atrium.co/blog/work-at-a-startup/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 - [ ] [Products Are Functions](https://www.feltpresence.com/functions.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 - [ ] [How To Configure a Continuous Integration Testing Environment with Docker and Docker Compose on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-configure-a-continuous-integration-testing-environment-with-docker-and-docker-compose-on-ubuntu-14-04)

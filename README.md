@@ -7,10 +7,12 @@
 Algorithm、Review、Technique、Share 简称ARTS
 ARTS是陈皓（左耳朵耗子），在《左耳听风》专栏的读者群中组织的关于自我成长的活动，一周为一个学习单元，
 在一周内，要做完成：
-- A：Learning Algorithm
-- R：Review  - Learning English,阅读、复评一篇 **英文** 技术文章
-- T：Tip - Learning Techniques
-- S：Share - Learning Influence
+- A：Algorithm  -Learning Algorithm，每周至少做一个leetcode的算法题
+- R：Review     - Learning English,阅读、复评一篇 **英文** 技术文章
+- T：Tip        - Learning Techniques，学习至少一个技术技巧
+- S：Share      - Learning Influence，分享一篇有观点和思考的技术文章。
+
+另外：一年52周。
 
 > In more then
 
