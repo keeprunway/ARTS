@@ -31,6 +31,8 @@
 - [ ] [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 - [ ] [Why We Decided to Rewrite Uber’s Driver App](https://eng.uber.com/rewrite-uber-carbon-app/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 - [ ] [Confessions of a programmer: I hate code review](https://blog.nelhage.com/2010/06/i-hate-code-review/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
+- [ ] [KANBAN VS SCRUM: CHOOSING THE BEST AGILE PROJECT MANAGEMENT FRAMEWORK](https://da-14.com/blog/kanban-vs-scrum-choosing-best-agile-project-management-framework)
+- [ ] [SQL: One of the Most Valuable Skills](http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill/)
 ## 3. Tips
 
 - [ ]  [有关JWT](https://github.com/brutalmraz/ARTS_weekly/blob/master/arts/20180812_week8.md#3tip)
